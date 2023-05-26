@@ -1,0 +1,19 @@
+payload:
+  - DOMAIN-SUFFIX,z2py.com
+  - DOMAIN-SUFFIX,studygolang.com
+  - DOMAIN-SUFFIX,deel.com
+  - DOMAIN-SUFFIX,larksuite.com
+  - DOMAIN-SUFFIX,clickup.com
+  # process
+  - PROCESS-NAME,DownloadService
+  - PROCESS-NAME,Lark
+  - PROCESS-NAME,Lark Helper
+  - PROCESS-NAME,Lark Helper (Iron)
+  - PROCESS-NAME,Thunder
+  - PROCESS-NAME,baidupan
+  - PROCESS-NAME,baidupan Helper
+  - PROCESS-NAME,Session
+  - PROCESS-NAME,Session Helper
+  - PROCESS-NAME,Session Helper (Renderer)
+  # ip
+  # - IP-CIDR,34.146.117.200/0
