@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,larksuite.com
   - DOMAIN-SUFFIX,clickup.com
   - DOMAIN-SUFFIX,csdn.net
+  - DOMAIN-SUFFIX,pupuapi.com
   # process
   - PROCESS-NAME,DownloadService
   - PROCESS-NAME,Lark
