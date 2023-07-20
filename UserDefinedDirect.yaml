@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,clickup.com
   - DOMAIN-SUFFIX,csdn.net
   - DOMAIN-SUFFIX,pupuapi.com
+  - DOMAIN-SUFFIX,goframe.org
   # process
   - PROCESS-NAME,DownloadService
   - PROCESS-NAME,Lark
