@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,platform.openai.com
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,tweetblurb.com
+  - DOMAIN-SUFFIX,copilot.microsoft.com
