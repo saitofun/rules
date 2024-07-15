@@ -10,3 +10,4 @@ payload:
   - PROCESS-NAME,newsd
   - PROCESS-NAME,NewsEngagementExtension
   - PROCESS-NAME,News
+  - PROCESS-NAME,ChatGPT
