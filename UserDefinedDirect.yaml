@@ -18,5 +18,6 @@ payload:
   - PROCESS-NAME,Session
   - PROCESS-NAME,Session Helper
   - PROCESS-NAME,Session Helper (Renderer)
+  - PROCESS-NAME,Infuse
   # ip
   # - IP-CIDR,34.146.117.200/0
