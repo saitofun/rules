@@ -1,4 +1,4 @@
 payload:
-  - tubi.tv
-  - tubitv.com
-  - tubi.tech
+  - DOMAIN-SUFFIX,tubi.tv
+  - DOMAIN-SUFFIX,tubitv.com
+  - DOMAIN-SUFFIX,tubi.tech
