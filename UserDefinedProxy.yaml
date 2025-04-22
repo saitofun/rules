@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,imagebox.com
   - DOMAIN-SUFFIX,stboy.net
   - DOMAIN-SUFFIX,imagebam.com
+  - DOMAIN-SUFFIX,hisxpress.com
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,auth0.openai.com
   - DOMAIN-SUFFIX,platform.openai.com
