@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,stboy.net
   - DOMAIN-SUFFIX,imagebam.com
   - DOMAIN-SUFFIX,hisxpress.com
+  - DOMAIN-SUFFIX,scallyguy.net
   - DOMAIN-SUFFIX,challenges.cloudflare.com
   - DOMAIN-SUFFIX,auth0.openai.com
   - DOMAIN-SUFFIX,platform.openai.com
