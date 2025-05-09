@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,ai.com
   - DOMAIN-SUFFIX,tweetblurb.com
   - DOMAIN-SUFFIX,copilot.microsoft.com
+  - DOMAIN-SUFFIX,app-analytics-services.com
   - PROCESS-NAME,newsd
   - PROCESS-NAME,NewsEngagementExtension
   - PROCESS-NAME,News
